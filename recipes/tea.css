@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+h1,h2,h3 {
+    color:rgb(206, 124, 24);
+    text-align: center;
+}
+div {
+    text-align: center;
+}

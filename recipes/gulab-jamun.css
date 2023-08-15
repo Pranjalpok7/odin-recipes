@@ -1,0 +1,15 @@
+body {
+    background-color: sienna;
+}
+ .Hello {
+    font-size: 100px;
+    color: darkred;
+
+}
+div { 
+    text-align: center;
+}
+img {
+    height: 400px;
+    width: 400px;
+}
